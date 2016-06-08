@@ -1,0 +1,98 @@
+{
+	"menu": 
+	[
+		{
+			"name": "Banking",
+			"rating": "4.5",
+			"tags": 
+			[
+				"Risk and Margin",
+				" Portfolio",
+				" Collateral",
+				" Trading",
+				" Billing and reporting"
+			],
+
+			"image": "http:\/\/www.pmbl-ng.com\/images\/about.jpg",
+			"description": "Accolite's financial services vertical provides solution spanning across Insurance and Banking. Solutions are aimed at simplifying challenges arising due to diversified channels, wide distribution networks, and constantly changing regulations.",
+			"link": "http:\/\/www.accolite.com\/banking-finance"
+		},
+
+		{
+			"name": "Insurance",
+			"rating": "2",
+			"tags": 
+			[
+				"Credential",
+				" Debt and payment",
+				" Annualization",
+				" Policy Administration"
+			],
+
+			"image": "http:\/\/www.datanami.com\/wp-content\/uploads\/2016\/01\/shutterstock_insurance_Ahmetov_Ruslan.jpg",
+			"description": "Accolite has deep expertise in insurance as well as banking domain. We help financial services firms develop business solutions to achieve effeciency, effectiveness and support large scale applications. Accolite provides access to expanded team of smart engineers with deep technical and functional expertise.",
+			"link": "http:\/\/www.accolite.com\/banking-finance"
+		},
+
+		{
+			"name": "Automotive",
+			"rating": "4.1",
+			"tags": 
+			[
+				"Customer management",
+				" Buy-back",
+				" Dealer management"
+			],
+
+			"image": "http:\/\/haystak.com\/wp-content\/uploads\/2015\/01\/porsche_cover_image1.png",
+			"description": "Customer Experience Management\u2019 has acquired huge significance in the automotive industry. Capturing and managing the customer life cycle has become crucial to enhance revenues. Every aspect of the life cycle counts now \u2013 right from requirement to replacement, involving various stages such as customer management, finance, service, parts, buy-back, replacement and complimentary solutions and services during the customer and vehicle life cycle. This calls for an improved collaboration between the dealers as channel partners and the OEMs.",
+			"link": "http:\/\/www.accolite.com\/automotive"
+		},
+
+		{
+			"name": "Telecom",
+			"rating": "3.5",
+			"tags": 
+			[
+				"Workforce Automation",
+				" B2B and B2C exhcnages",
+				" Product design and development",
+				" Software integration"
+			],
+
+			"image": "http:\/\/i.imgur.com\/PTEMsIN.png",
+			"description": "At Accolite, we offer an array of software development services within the telecom order tracking and networking sectors. Our services include the development of telecom software solutions, testing, implementation and maintenance of the developed telecom software solutions.",
+			"link": "http:\/\/www.accolite.com\/Telecom"
+		},
+
+		{
+			"name": "Health Care",
+			"rating": "4",
+			"tags": 
+			[
+				"Health Level Seven",
+				" Streamlining routine processes",
+				" end to end integration solutions"
+			],
+
+			"image": "http:\/\/www.ytechllc.com\/images\/healthcareimage.jpg",
+			"description": "Accolite\u2019s Software's integration solutions are helping healthcare organizations streamline business processes, preserve IT investments, and rapidly and cost-effectively implement key initiatives for meeting many of their challenges.",
+			"link": "http:\/\/www.accolite.com\/health-care"
+		},
+
+		{
+			"name": "Cyber Security",
+			"rating": "5",
+			"tags": 
+			[
+				"Threat modelling",
+				" Secure lifecycle development",
+				" OWASP"
+			],
+
+			"image": "https:\/\/www.law.georgetown.edu\/continuing-legal-education\/programs\/cle\/cybersecurity\/images\/shutterstock_165303932.jpg",
+			"description": "Cyber Security Industry is growing at a brisk pace. A good percentage of this growth can be attributed to the technological advancement but at the same time a small portion of it can be attributed to the fear of the unknowns. With this rapid pace of growth came the new set of challenges like new tools, technologies, regulations, operation models etc. This is all good but \u201cNo one size fits all\u201d. Each business has a unique set of needs. In cyber terms this would mean establishing a measure for the organization's unique risk posture and adaptability requirements first before spending hard fought budget dollars while also drawing maximum value from existing investments. CRGS (An Accolite venture) is focused on providing custom solutions to its end customers.",
+			"link": "http:\/\/www.accolite.com\/what-we-do"
+		}
+	]
+}

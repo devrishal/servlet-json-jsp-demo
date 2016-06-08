@@ -1,0 +1,10 @@
+span.stars, span.stars>* {
+    display: inline-block;
+    background: url(R001/images/stars.png) 0 -16px repeat-x;
+    width: 80px;
+    height: 16px;
+}
+span.stars>*{
+    max-width:80px;
+    background-position: 0 0;
+}

@@ -1,0 +1,93 @@
+#container > div
+{
+	text-align: left;
+    display: inline-block;
+    display: inline;
+    width:50%;
+    
+}
+#container
+{
+    margin: 0px auto;
+    width: 100%;
+    height:100px;
+    border-bottom:5px solid black
+}
+.imagesLogo
+{
+	width:100%;
+	height:100%;
+}
+    #custom-search-form {
+        margin:0;
+        margin-top: 5px;
+        padding: 0;
+    }
+ 
+    #custom-search-form .search-query {
+        padding-right: 3px;
+        padding-right: 4px \9;
+        padding-left: 3px;
+        padding-left: 4px \9;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+ 
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        -webkit-transition: width  0.2s ease-in-out;
+    -moz-transition:width  0.2s ease-in-out;
+    -o-transition: width  0.2s ease-in-out;
+    transition: width  0.2s ease-in-out;
+    }
+ 
+    #custom-search-form button {
+        border: 0;
+        background: none;
+        /** belows styles are working good */
+        padding: 2px 5px;
+        margin-top: 2px;
+        position: relative;
+        left: -28px;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+    }
+ 
+    .search-query:focus + button {
+        z-index: 3;   
+    }   
+    .search-query:focus{
+        width: 260px;
+    }   
+
+html {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #545454;
+}
+
+{
+  background: #ffbb99;
+  padding: 2em;
+  border: 1px solid black;
+}
+#detail
+{
+	text-align: left;
+    display: inline-block;
+    display: inline;
+    width:100%;
+    
+}
+#detail1
+{
+	text-align: Right;
+	display: inline-block;
+    display: inline;
+    width:100px;
+    
+}
